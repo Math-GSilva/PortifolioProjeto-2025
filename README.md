@@ -80,7 +80,7 @@ Desenvolvimento de um sistema voltado para artistas independentes, permitindo a 
   - Autenticação: JWT com bcrypt.
   - Logging: NLog e Serilog.
 - **Ferramentas de Desenvolvimento e Gestão de Projeto**:
-  - Banco de Dados: SQL Server.
+  - Banco de Dados: PostgresSQl.
   - Versionamento: Git/GitHub.
   - Gerenciamento: Trello ou Jira.
   - Algoritmo de IA para recomendação de posts baseado nas interações do usuário.
