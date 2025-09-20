@@ -82,7 +82,7 @@ Desenvolvimento de um sistema voltado para artistas independentes, permitindo a 
 - **Ferramentas de Desenvolvimento e Gestão de Projeto**:
   - Banco de Dados: PostgresSQl.
   - Versionamento: Git/GitHub.
-  - Gerenciamento: Trello ou Jira.
+  - Gerenciamento: Github Projects.
   - Algoritmo de IA para recomendação de posts baseado nas interações do usuário.
 
 ### 3.4. Considerações de Segurança
