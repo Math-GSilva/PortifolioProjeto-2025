@@ -5,7 +5,7 @@
 - **Título do Projeto**: Inspira - Rede para Artistas Independentes.
 - **Nome do Estudante**: Matheus Gabriel da Silva.
 - **Curso**: Engenharia de Software.
-- **Data de Entrega**: [Data].
+- **Data de Entrega**: 28/11/2025.
 
 # Resumo
 
@@ -44,7 +44,7 @@ Desenvolvimento de um sistema voltado para artistas independentes, permitindo a 
   - RF004: O sistema deve permitir ao Artista a criação e edição de perfis personalizados.
   - RF005: O sistema deve exibir recomendações de artes baseadas nas interações do usuário.
   - RF006: O sistema deve permitir ao Administrador a moderação de conteúdo inadequado.
-  - RF007: O sistema deve permitir a busca avançada por artistas (nome, estilo, categoria).
+  - RF007: O sistema deve permitir a busca avançada por artistas (nome, categoria).
   
 - **Requisitos Não Funcionais (RNF):**
   - RNF001: A interface deve ser responsiva para diferentes dispositivos.
